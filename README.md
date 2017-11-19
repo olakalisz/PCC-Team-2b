@@ -12,6 +12,7 @@ Computer vision facial detection hackathon project. Project addresses privacy is
     
 ## How to run the code
 Simply run ```python final_face_pixalate.py``` it will get access to you web camera and pixalette all the faces it detects.
+For the blur faces (smoother, no pixelation) run ```python final_face_blur.py```.
 Enjoy!
 
 
