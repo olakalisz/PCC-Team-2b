@@ -20,5 +20,5 @@ Enjoy!
 We based our work on the great tutorial which you can find here: <https://www.guidodiepen.nl/2017/02/tracking-multiple-faces/>
 
 
-##Pitch
+## Pitch
 https://docs.google.com/presentation/d/1YRF-KuzTva6ElLCJ4vtzsKbRYvh43PtcgG8RwxxCJcs/edit
