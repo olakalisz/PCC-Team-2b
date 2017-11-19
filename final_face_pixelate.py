@@ -230,8 +230,10 @@ def detectAndTrackMultipleFaces():
 
                 #Taking care of edge cases, negative values make rescaling in pixelate impossible
                 if t_x < 0:
+                    t_w = t_w + t_x
                     t_x = 0
                 if t_y < 0:
+                    t_h = t_h + t_y
                     t_y = 0
 
                 # Pixalate the detected faces
