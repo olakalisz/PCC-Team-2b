@@ -44,13 +44,11 @@ def detectAndTrackMultipleFaces():
     #Open the first webcame device
     capture = cv2.VideoCapture(0)
 
-    #Create two opencv named windows
-    cv2.namedWindow("base-image", cv2.WINDOW_AUTOSIZE)
+    #Create an opencv named window
     cv2.namedWindow("result-image", cv2.WINDOW_AUTOSIZE)
 
-    #Position the windows next to eachother
-    cv2.moveWindow("base-image",0,100)
-    cv2.moveWindow("result-image",400,100)
+    #Position the window on the screen
+    cv2.moveWindow("result-image",0,100)
 
     #Start the window thread for the two windows we are using
     cv2.startWindowThread()
