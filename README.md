@@ -22,3 +22,6 @@ We based our work on the great tutorial which you can find here: <https://www.gu
 
 ## Pitch
 https://docs.google.com/presentation/d/1YRF-KuzTva6ElLCJ4vtzsKbRYvh43PtcgG8RwxxCJcs/edit
+
+## Team
+Paul Nunez, Ola Kalisz, Richard Tang, Victor Tang
